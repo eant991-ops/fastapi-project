@@ -1,0 +1,18 @@
+2026-06-20 13:19:54 | INFO | main | Приложение запущено
+2026-06-20 13:19:54 | WARNING | main | Значение x больше 100
+2026-06-20 13:19:54 | ERROR | main | Произошла ошибка деления на ноль
+Traceback (most recent call last):
+  File "C:\Users\EANT\cli_FAST_API\main.py", line 27, in <module>
+    result = 10 / 0
+             ~~~^~~
+ZeroDivisionError: division by zero
+2026-06-20 13:19:54 | INFO | main | Приложение завершено
+2026-06-20 13:20:50 | INFO | main | Приложение запущено
+2026-06-20 13:20:50 | WARNING | main | Значение x больше 100
+2026-06-20 13:20:50 | ERROR | main | Произошла ошибка деления на ноль
+Traceback (most recent call last):
+  File "C:\Users\EANT\cli_FAST_API\main.py", line 27, in <module>
+    result = 10 / 0
+             ~~~^~~
+ZeroDivisionError: division by zero
+2026-06-20 13:20:50 | INFO | main | Приложение завершено
